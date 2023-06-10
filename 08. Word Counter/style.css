@@ -1,0 +1,37 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contain{
+    border: none;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;    
+    padding: 10px;
+    background: #73AB84;
+    border-radius: 3px;
+    box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.589);
+}
+
+#text{
+    background: #DDDBCB;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+
+h1{
+    font-family: cursive;
+    font-weight: 200; 
+    font-style: italic;
+}
+
+.btn{
+    font-size: 1rem;
+}
+
